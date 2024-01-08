@@ -1,1 +1,8 @@
 Hi this is file1
+Inserting content in file1 using vi command
+hello
+welcome 
+you 
+are 
+successfully 
+done
